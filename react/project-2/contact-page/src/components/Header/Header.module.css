@@ -1,0 +1,15 @@
+.header_section {
+    max-width: 1000px;
+    margin: 0 auto;
+    height: 72px;
+}
+
+.header_section h1 {
+    font-weight: 800;
+    font-size: 48px;
+    max-width: 80%;
+}
+
+.header_section p {
+    font-weight: 500;
+}
